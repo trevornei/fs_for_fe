@@ -1,0 +1,11 @@
+What makes cloud computing work(Principles):
+1. Virtualization: computing in the cloud can be done by servers dividing up resouces: virtualResource1, virtualResource2, virtualResource3, ...
+
+2. Virtual Machine: Digital Versions of a physical computer.
+
+3. Virtual Private Servers (VPS) {(Modern Solution)}
+If you buy 32 processors:
+    Then you have 32 computer to process compute.
+
+Up Next: Prof Jem said we'll buy our own server in cloud. 
+----> v exciting stuff : D
