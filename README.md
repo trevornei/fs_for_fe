@@ -1,13 +1,9 @@
 # Full Stack for Front End Developers
-
-**Instructor:** Jem Young (Front End Masters)
-
-## Course Overview
-Elevate your front-end development skills to full-stack expertise with Jem Young's **Full Stack for Front End Developers** course. This hands-on journey empowers you to master essential tools, systems, and workflows beyond the browser.
+**Instructor:** Jem Young (Front End Masters) 
 
 ---
 
-## 🚀 **What You'll Learn**
+## 🚀 **What I Learned**
 
 - **Command Line Mastery**: Navigate file systems, manipulate files, and boost terminal productivity with VIM.
 - **Server Fundamentals**: Build and manage Node.js servers while learning debugging and scaling essentials. Configure and purchase your own VPS.
@@ -20,7 +16,7 @@ Elevate your front-end development skills to full-stack expertise with Jem Young
 
 ---
 
-## 🛠️ **Tech You'll Use**
+## 🛠️ Kit **
 - **Node.js**
 - **Nginx**
 - **Docker**
@@ -28,15 +24,3 @@ Elevate your front-end development skills to full-stack expertise with Jem Young
 - **PM2**
 - **VIM, SSH, and CLI tools**
 - **Certbot for HTTPS**
-
----
-
-## 🌟 **Takeaway Skills**
-By the end of this course, you'll:
-- Understand full-stack concepts from servers to deployment.
-- Be confident managing VPS servers and deploying applications.
-- Possess practical knowledge of containers, databases, and security workflows.
-
----
-
-Happy full-stack hacking! 🔥
