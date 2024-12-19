@@ -1,5 +1,15 @@
 # Full Stack for Front End Developers
-**Instructor:** Jem Young (Front End Masters) 
+
+**Instructor:** Jem Young (Front End Masters)
+
+---
+
+# Dependencies (Not on the VPS)
+
+1 - express
+cp npm i express
+2 - ws
+cp npm i ws
 
 ---
 
@@ -16,7 +26,8 @@
 
 ---
 
-## 🛠️ Kit **
+## 🛠️ Kit \*\*
+
 - **Node.js**
 - **Nginx**
 - **Docker**
