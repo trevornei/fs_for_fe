@@ -4,12 +4,12 @@
 const express = require("express");
 const server = require("http").createServer();
 const app = express();
-
+const path = require("path");
 // Create a route for the app.
 // At the root: responds with an index.html file.
-app.get("/", function (res, req) {
+app.get("/", function (req, res) {
   // __dirname is a reserved name in node for the directory that we are in right now.
-  res.sendFile(path.join(__dirname, "ws", "index-ws.js"));
+  res.sendFile(path.join(__dirname, "index.html"));
 });
 
 server.on("request", app);
