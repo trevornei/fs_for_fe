@@ -9,10 +9,16 @@ const app = express();
 // At the root: responds with an index.html file.
 app.get("/", function (res, req) {
   // __dirname is a reserved name in node for the directory that we are in right now.
-  res.sendFile("index.html", { root: __dirname });
+  res.sendFile(path.join(__dirname, "index.html"));
 });
 
 server.on("request", app);
 server.listen(3000, function () {
-  console.log("listening on port");
+  console.log("listening on port 3000");
 });
+
+/*
+Begin Websocket 
+*/
+
+// const websocketServer = require(ws).Server;
